@@ -3,10 +3,13 @@
 Face detection which utilizes a pre-trained model from Caffe framework. The model has been tested on both image and camera.
 
 ## Results
-
-![Alt Text](results/result.png)
-![Alt Text](results/result2.png)
-![Alt Text](results/result3.png)
+<table>
+<tr>
+<td><img src="results/result.png"></td>
+<td><img src="results/result2.png"></td> 
+<td><img src="results/result3.png"></td> 
+</tr>
+</table>
 
 ## Run The Project
 
